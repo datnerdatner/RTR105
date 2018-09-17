@@ -1,6 +1,6 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  pwd
+    3  pwd **print name of current/working directory**
     4  ls
     5  whoami
     6  who
