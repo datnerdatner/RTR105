@@ -1,8 +1,8 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  pwd   **print name of current/working directory**
+    3  pwd   print name of current/working directory
     4  ls   list directory contents
-    5  whoami     **print effective userid**
+    5  whoami     print effective userid
     6  who   show who is logged on
     7  firefox &
     8  ls -l   
