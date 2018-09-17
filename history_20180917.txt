@@ -1,12 +1,12 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  pwd **print name of current/working directory**
-    4  ls
-    5  whoami
-    6  who
+    3  pwd   print name of current/working directory
+    4  ls   list directory contents
+    5  whoami     print effective userid
+    6  who   show who is logged on
     7  firefox &
-    8  ls -l
-    9  cd Music/
+    8  ls -l   
+    9  cd Music/ parvietoties uz mapi
    10  pwd
    11  ls
    12  ls -a
@@ -51,7 +51,7 @@
    51  pwd
    52  cd
    53  pwd
-   54  mkdir ManaMape
+   54  mkdir ManaMape  jauna mape ar nosaukumu ManaMape
    55  ls
    56  ls -la
    57  cd ManaMape/
@@ -60,7 +60,7 @@
    60  ls -la
    61  cd ..
    62  pwd
-   63  rmdir ManaMape/
+   63  rmdir ManaMape/  dzēst mape ar nosaukumu ManaMape
    64  ls -l
    65  mkdir ManaMape
    66  cd ManaMape/
@@ -78,7 +78,7 @@
    78  rm -r ManaMape/
    79  ls -l
    80  man echo
-   81  echo "Teksts"
+   81  echo "Teksts"   display a line of text
    82  echo "Teksts
 Teksts
 Teksts"
@@ -95,11 +95,11 @@ Teksts"
    93  echo "Teksts" > fails1.txt
    94  cat fails1.txt
    95  echo "Papildus teksts" >> fails1.txt
-   96  cat fails1.txt
+   96  cat fails1.txt      concatenate files and print on the standard output
    97  ls -l
    98  nano fails1.txt 
    99  ls -l
-  100  chmod 540  fails1.txt 
+  100  chmod 540  fails1.txt   change file mode bits
   101  ls -l
   102  echo "Teksts" > fails1.txt
   103  nano fails1.txt 
@@ -107,7 +107,7 @@ Teksts"
   105  echo "Teksts" > ../fails1.txt
   106  cp fails1.txt fails101.txt
   107  ls -l
-  108  mv *1*.txt Music/
+  108  mv *1*.txt Music/    move (rename) files
   109  cd Music/
   110  ls
   111  cd
