@@ -18,3 +18,7 @@ Datormācības kursa elektroniskā klade
 "**echo "Teksts"**" display a line of text
 
 "**cat fails1.txt**" concatenate files and print on the standard output
+
+"**mv**" parvietot failu
+
+"**rm**" dzēst failu
