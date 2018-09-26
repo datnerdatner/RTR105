@@ -1,0 +1,56 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  whoami
+    5  nano mans_skripts.sh
+    6  cat mans_skripts.sh 
+    7  cat /bin/ls
+    8  ls
+    9  rm history.txt
+   10  ls
+   11  echo $PATH
+   12  pwd
+   13  ls -l
+   14  ./mans_scripts.sh
+   15  /home/user/mans_scripts.sh
+   16  ./mans_skripts.sh
+   17  /home/user/mans_skripts.sh
+   18  -/mans_skripts.sh
+   19  chmod 764 mans_skripts.sh 
+   20  ls -l
+   21  echo $PATH
+   22  pwd
+   23  PATH=$PATH:/home/datner
+   24  echo $PATH
+   25  ls -l
+   26  mans_skripts.sh 
+   27  ls -l
+   28  cd /Mape
+   29  git clone https://github.com/datnerdatner/RTR105
+   30  sudo apt install git
+   31  git clone https://github.com/datnerdatner/RTR105
+   32  ls -l
+   33  ms mans_skripts.sh RTR105/
+   34  mv mans_skripts.sh RTR105/
+   35  ls -l
+   36  /RTR105$ ls -l
+   37  ~/RTR105$ ls -l
+   38  cd RTR105/
+   39  ls -l
+   40  nano README.md 
+   41  cd ~
+   42  history
+   43  nano README.md 
+   44  cd RTR105/
+   45  nano README.md 
+   46  history
+   47  nano README.md 
+   48  ls -l
+   49  nano git-upload
+   50  la -l
+   51  ls -l
+   52  nano git-upload
+   53  chmod git-upload 764
+   54  chmod 764 git-upload
+   55  ls -l
+   56  history > history_20180926.txt

@@ -22,3 +22,11 @@ Datormācības kursa elektroniskā klade
 "**mv**" parvietot failu
 
 "**rm**" dzēst failu
+
+"**nano**" Nano's ANOther editor, an enhanced free Pico clone
+
+"**man**"  an interface to the on-line reference manuals
+
+"**cat**" concatenate files and print on the standard output
+
+"**echo**" display a line of text
