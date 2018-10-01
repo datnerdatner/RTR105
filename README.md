@@ -30,3 +30,7 @@ Datormācības kursa elektroniskā klade
 "**cat**" concatenate files and print on the standard output
 
 "**echo**" display a line of text
+
+"**chmod 764**" change mode
+
+
