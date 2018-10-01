@@ -1,0 +1,34 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  whoami
+    5  ls -l
+    6  python
+    7  ipython
+    8  sudo apt install ipython
+    9  ipython
+   10  idle &
+   11  sudo apt install idle
+   12  idle &
+   13  ls -l
+   14  cat dgr_20181001.py 
+   15  git clone https://github.com/datnerdatner/RTR105
+   16  ls -l
+   17  mv dgr_20181001.py RTR105/
+   18  ls -l
+   19  cd RTR105/
+   20  ls -l
+   21  ~
+   22  cd ~
+   23  cd RTR105/
+   24  nano test_1.py
+   25  idle nano test_1.py 
+   26  ls -l
+   27  test_1.py
+   28  /home/datner/RTR105/test_1.py
+   29  chmod 764 test_1.py 
+   30  ls -l
+   31  test_1.py
+   32  /home/datner/RTR105/test_1.py
+   33  ./test_1.py 
+   34  history > history_20181001.txt
